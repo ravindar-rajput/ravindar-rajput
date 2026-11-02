@@ -7,27 +7,11 @@
 ### 💻 What I'm Exploring
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7A5,50:8A7CFF,100:36BCF7&height=120&section=header&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7A5,50:8A7CFF,100:36BCF7&height=100&section=header&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1200&pause=4000&color=FFB7A5&center=true&vCenter=true&width=750&lines=Data+Analytics+Enthusiast+%F0%9F%93%8A" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1200&pause=4000&color=36BCF7&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Explorer+%F0%9F%A4%96" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1200&pause=4000&color=C084FC&center=true&vCenter=true&width=750&lines=Machine+Learning+Learner+%F0%9F%A7%A0" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1200&pause=4000&color=FACC15&center=true&vCenter=true&width=750&lines=Power+BI+Dashboard+Developer+%F0%9F%93%88" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1200&pause=4000&color=FF8FAB&center=true&vCenter=true&width=750&lines=Web+Developer+%7C+PHP+%7C+Laravel+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=4000&color=FFB7A5&center=true&vCenter=true&width=750&lines=Data+Analytics+Enthusiast+%F0%9F%93%8A;Artificial+Intelligence+Explorer+%F0%9F%A4%96;Machine+Learning+Learner+%F0%9F%A7%A0;Power+BI+Dashboard+Developer+%F0%9F%93%88;Web+Developer+%7C+PHP+%7C+Laravel+%F0%9F%92%BB" alt="Animated Skills" />
 </p>
 ### 🚀 About Me
 
