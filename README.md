@@ -4,20 +4,8 @@
 
 🎓 Currently pursuing **MS Data Science at NED University of Engineering & Technology**.
 
-<!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7A5,50:8A7CFF,100:36BCF7&height=150&section=header&animation=twinkling" width="100%" />
-</p>
-
-<!-- Different Color Typing Animations -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=FFB7A5&center=true&vCenter=true&width=650&lines=Data+Analytics+Enthusiast" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Explorer" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=650&lines=Machine+Learning+Learner" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=FACC15&center=true&vCenter=true&width=650&lines=Power+BI+Dashboard+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=5000&color=FFB7A5&center=true&vCenter=true&width=750&lines=Data+Analytics+Enthusiast;Artificial+Intelligence+Explorer;Machine+Learning+Learner;Power+BI+Dashboard+Developer;Web+Developer+%7C+PHP+%7C+Laravel" />
 </p>
 ### 🚀 About Me
 
