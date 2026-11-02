@@ -4,8 +4,10 @@
 
 🎓 Currently pursuing **MS Data Science at NED University of Engineering & Technology**.
 
+### 💻 What I'm Exploring
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=5000&color=FFB7A5&center=true&vCenter=true&width=750&lines=Data+Analytics+Enthusiast;Artificial+Intelligence+Explorer;Machine+Learning+Learner;Power+BI+Dashboard+Developer;Web+Developer+%7C+PHP+%7C+Laravel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=300&color=FFB7A5&center=true&vCenter=true&width=750&lines=Data+Analytics+Enthusiast+%F0%9F%93%8A;Artificial+Intelligence+Explorer+%F0%9F%A4%96;Machine+Learning+Learner+%F0%9F%A7%A0;Power+BI+Dashboard+Developer+%F0%9F%93%88;Web+Developer+%7C+PHP+%7C+Laravel+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 ### 🚀 About Me
 
