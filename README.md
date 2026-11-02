@@ -4,12 +4,21 @@
 
 🎓 Currently pursuing **MS Data Science at NED University of Engineering & Technology**.
 
-### 💻 What I'm Exploring
-
+<!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=FFB7A5&center=true&vCenter=true&width=750&lines=Data+Analytics+Enthusiast+%F0%9F%93%8A;Artificial+Intelligence+Explorer+%F0%9F%A4%96;Machine+Learning+Learner+%F0%9F%A7%A0;Power+BI+Dashboard+Developer+%F0%9F%93%88;Web+Developer+%7C+PHP+%7C+Laravel+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7A5,50:8A7CFF,100:36BCF7&height=150&section=header&animation=twinkling" width="100%" />
 </p>
 
+<!-- Different Color Typing Animations -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=FFB7A5&center=true&vCenter=true&width=650&lines=Data+Analytics+Enthusiast" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Explorer" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=650&lines=Machine+Learning+Learner" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=FACC15&center=true&vCenter=true&width=650&lines=Power+BI+Dashboard+Developer" />
+</p>
 ### 🚀 About Me
 
 - 🎓 BS Computer Science Graduate
