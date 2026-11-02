@@ -46,7 +46,7 @@ Strengthening my Data Science, Machine Learning, SQL and analytical skills throu
 
 ### 🤝 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile link
+- LinkedIn: linkedin.com/in/ravindar-singh-rajput-b3279b268
 - GitHub: https://github.com/ravindar-rajput
 
 **"Learning, Building, and Growing Through Technology."** 🚀
